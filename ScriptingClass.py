@@ -1,4 +1,4 @@
-# Project 1 
+# Project 1 ---prompt users for file size and estimated transfer speed then calculates the time
 print("file Size in MB")   
 fileSize = input()  #prompt for file size in MB
 print("Transfer Speed in MB/s")
