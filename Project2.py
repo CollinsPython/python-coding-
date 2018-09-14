@@ -1,4 +1,5 @@
-# project 2 ITS 5900 by Collins Ojo.  ===> uses python 3.5
+#displays only words that ends with ".exe" from a file.txt
+#By Collins  ===> uses python 3.5
 #the file was placed in thesame working directory as python
 print('Please Enter your filename') 
 fileName = input('Your Filename: ')  #prompt users for filename
