@@ -1,2 +1,2 @@
-# python-coding-
-different coding for python
+# python-scripts-
+different scripts in python
