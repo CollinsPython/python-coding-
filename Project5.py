@@ -1,4 +1,4 @@
-# project 5 ITS 5900 by Collins Ojo.  ===> uses python 3.5
+#  ===> uses python 3.5
 import math
 import sys
 print("Select operation.")
