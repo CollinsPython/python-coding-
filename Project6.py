@@ -1,5 +1,5 @@
-# project 7 by Collins E. Ojo ==> uses python 3.5
-#Revised Calculator script
+
+#Basic Calculator script
 """In order to follow the instructions i decided to introduce the 'split' function 
 also I have taken care of the errors by using 'try' function.
 """
