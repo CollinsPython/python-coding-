@@ -1,8 +1,5 @@
 
 #Basic Calculator script
-"""In order to follow the instructions i decided to introduce the 'split' function 
-also I have taken care of the errors by using 'try' function.
-"""
 import math
 print("1 for sum; 2 for subtraction; 3 for division; 4 for multiplication; 5 for ln(x); 6 for log10; 7 for log2; 8 for add log10")
 choice = input("Your task: ")
